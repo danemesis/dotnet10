@@ -11,7 +11,7 @@ namespace WebApplication_with_controllers.Controllers
         [HttpGet(Name = "GetValue")]
         public int Get()
         {
-            return 42;
+            return 44;
             // return Enumerable.Range(1, 5).Count();
         }
     }

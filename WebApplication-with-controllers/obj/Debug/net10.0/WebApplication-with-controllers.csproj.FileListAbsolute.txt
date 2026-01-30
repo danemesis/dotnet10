@@ -34,3 +34,4 @@
 /Users/danbilokha/Documents/NTG/test-with-controllers/WebApplication-with-controllers/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/danbilokha/Documents/NTG/test-with-controllers/WebApplication-with-controllers/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/danbilokha/Documents/NTG/test-with-controllers/WebApplication-with-controllers/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/danbilokha/Documents/NTG/test-with-controllers/WebApplication-with-controllers/obj/Debug/net10.0/WebApplication-with-controllers.sourcelink.json
